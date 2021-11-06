@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Nick Rules",
+        "text": "Not really",
+        "note_id": "72b1ad64-c4be-4a45-a4ac-7b44edd55272"
+    },
+    {
+        "title": "Testing Delete",
+        "text": "Test\n",
+        "note_id": "6b02ced7-1c47-413b-99d9-71e23827cd9f"
     }
 ]
