@@ -29,7 +29,7 @@ https://shrouded-inlet-97569.herokuapp.com/
 
 ## Screenshots-Demo
 
-<kbd>![screenshot1](Assets/Screenshot1.png)</kbd><kbd>![screenshot2](Assets/Screenshot2.png)</kbd>
+<kbd>![screenshot1](Assets/Assets/Screenshot1.png)</kbd><kbd>![screenshot2](Assets/Assets/Screenshot2.png)</kbd>
 
 ## Project Description
 
